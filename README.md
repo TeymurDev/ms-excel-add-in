@@ -49,8 +49,10 @@ but dynamic-array spilling still shows 1
 when I type inside cell ={1,2,3,4,5}
 
 11. Finally I had an issue that my version of ms office doesn't support dynamic-array spilling. But ms 365 supports it. I tried to run ms 365 online but microsoft for no reason blocked my account creation 😔
+    <img width="500" height="566" alt="image" src="https://github.com/user-attachments/assets/decd014c-af2a-4637-98a6-d87f24471b94" />
 
-    Task is ready and you can check it. Looking forward to hearing from you. Thank you!
+
+    # Task is ready and you can check it. Looking forward to hearing from you. Thank you!
 
 
 
