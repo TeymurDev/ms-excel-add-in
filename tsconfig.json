@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["ES2017", "DOM"],
+    "types": ["office-js", "office-runtime"],
+    "outDir": "dist",
+    "strict": true,
+    "sourceMap": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts"]
+}

@@ -1,0 +1,21 @@
+{
+    "allowCustomDataForDataTypeAny": true,
+    "functions": [
+        {
+            "description": "Returns a spilled row of factorials from 0! up to N!.",
+            "id": "FACTORIALROW",
+            "name": "FACTORIALROW",
+            "parameters": [
+                {
+                    "description": "The upper bound N. The function returns [0!, 1!, 2!, ..., N!].",
+                    "name": "n",
+                    "type": "number"
+                }
+            ],
+            "result": {
+                "dimensionality": "matrix",
+                "type": "number"
+            }
+        }
+    ]
+}
