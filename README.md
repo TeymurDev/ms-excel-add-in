@@ -24,9 +24,9 @@ The function accepts a single numeric value N and returns a row of calculated fa
 
 Important: It should not be a comma-separated list of values inside one cell, but a spill range of N cells.
 
-2. I received an Error regarding custom functions and fixed it. the issue was I forget to put code below on the top of functions.ts.
-/// <reference types="office-js" />
-/// <reference types="office-runtime" />
+2. I received an Error regarding custom functions and fixed it. The issue was I forget to put code below on the top of functions.ts.
+<img width="476" height="84" alt="image" src="https://github.com/user-attachments/assets/819d09bb-4247-47f7-92d8-da61b4b27820" />
+
 3. I asked allow localhost loopback for microsoft edge  webview. Shall I do it? Anser was yes.
 4. I receive this result when paste =TESTVELIXO.FACTORIALROW(5) to excel worksheet
    <img width="134" height="46" alt="image" src="https://github.com/user-attachments/assets/5e9c7cc7-4618-4335-911a-dea61fe4870b" />
