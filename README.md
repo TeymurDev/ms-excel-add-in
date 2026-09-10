@@ -5,7 +5,7 @@
 I tried to do this task with ChatGPT and Cursor but as you know that their models are not strong enough I decided to use Claude:
 
 1. I asked Claude to implement this task below:
-2. 
+
 Develop an Excel add-in that:
 
 Uses the Office.js framework
